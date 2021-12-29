@@ -1,0 +1,921 @@
+Abdeslam Boularias
+
+March 2021
+
+Current Position Associate Professor at Rutgers University
+
+Contact
+Information
+
+Research
+Interests
+
+Department of Computer Science
+Rutgers University
+110 Frelinghuysen Road, Piscataway, NJ, 08854
+
+Phone:
+Website: http://rl.cs.rutgers.edu
+
+412-681-6961
+
+Theory: Machine Learning, Robot Learning, Planning, Reinforcement Learning
+Applications: Robotic Grasping and Manipulation, Robot Vision, Automation, Imitation Learn-
+ing, Behavior Modeling, Natural Language User Interfaces
+
+Educational
+Background
+
+Laval University, Qu´ebec, Canada
+
+Ph.D. in Computer Science, July 2010
+
+• Topic: Predictive Representations For Sequential Decision Making Under Uncertainty
+• Committee: Brahim Chaib-draa, Joelle Pineau, Abdel-Illah Mouaddib, Philippe Gigu`ere
+
+Research
+Experience
+
+Paris-Sud University (Paris XI), Orsay, France
+
+M.S. in Computer Science, September 2005
+
+´Ecole Nationale Sup´erieure d’Informatique, Algiers, Algeria
+
+B.S. in Computer Engineering, October 2004
+
+Rutgers, The State University of New Jersey
+July 2021 - now
+Associate Professor
+Rutgers, The State University of New Jersey
+September 2015 - June 2021
+Assistant Professor
+National Robotics Engineering Center, Carnegie Mellon University
+May 2015 - August 2015
+Project Scientist
+National Robotics Engineering Center, Carnegie Mellon University
+May 2013 - May 2015
+Postdoctoral Fellow
+Max Planck Institute for Intelligent Systems
+August 2010 - May 2013
+Research Scientist
+Laval University
+January 2006 - August 2010
+Graduate Research Assistant
+INRIA
+March 2005 - October 2005
+Internship
+´Ecole Nationale Sup´erieure d’Informatique
+October 2003 - October 2004
+Internship
+
+New Brunswick, USA
+
+New Brunswick, USA
+
+Pittsburgh, USA
+
+Pittsburgh, USA
+
+T¨ubingen, Germany
+
+Qu´ebec, Canada
+
+Orsay, France
+
+Algiers, Algeria
+
+External
+Recognition
+
+NSF CAREER Award: “Task-Oriented Model Identiﬁcation for Robust Robotic Manipulation”,
+2019.
+
+Best Automation Paper Award Finalist: “Towards Robust Product Packing with a Minimal-
+istic End-Eﬀector”, ICRA 2019.
+Best Cognitive Robotics Paper Award: “Learning to Ground Spatial Relations for Outdoor
+Robot Navigation”, ICRA 2015.
+
+Teaching
+Experience
+
+Rutgers, The State University of New Jersey, Piscataway, US
+
+1. Robot Learning (CS 672, graduate course)
+
+Spring 2021
+
+2. Introduction to Artiﬁcial Intelligence (CS 520, graduate course)
+
+Fall 2020
+
+3. Introduction to Artiﬁcial Intelligence (CS 520, graduate course)
+
+Spring 2020
+
+4. Introduction to Artiﬁcial Intelligence (CS 440, undergraduate course)
+
+Fall 2019
+
+5. Introduction to Artiﬁcial Intelligence (CS 440, undergraduate course)
+
+Spring 2019
+
+6. Introduction to Artiﬁcial Intelligence (CS 440, undergraduate course)
+
+Spring 2018
+
+7. Robot Learning (CS 674, graduate course)
+
+Fall 2017
+
+8. Introduction to Artiﬁcial Intelligence (CS 520, graduate course)
+
+Spring 2017
+
+9. Introduction to Artiﬁcial Intelligence (CS 440, undergraduate course)
+
+Fall 2016
+
+Enrollment: 12 students
+Teaching Eﬀectiveness Rating: 4.5/5
+Course Quality Rating: 4.5/5
+
+Enrollment: 21 students
+Teaching Eﬀectiveness Rating: 5/5
+Course Quality Rating: 4.88/5
+
+Enrollment: 44 students
+Teaching Eﬀectiveness Rating: 4.7/5
+Course Quality Rating: 4.6/5
+
+Enrollment: 147 students
+Teaching Eﬀectiveness Rating: 4.7/5
+Course Quality Rating: 4.6/5
+
+Enrollment: 152 students
+Teaching Eﬀectiveness Rating: 4.3/5
+Course Quality Rating: 4.4/5
+
+Enrollment: 154 students
+Teaching Eﬀectiveness Rating: 4.5/5
+Course Quality Rating: 4.5/5
+
+Enrollment: 14 students
+Teaching Eﬀectiveness Rating: 5/5
+Course Quality Rating: 5/5
+
+Enrollment: 80 students
+Teaching Eﬀectiveness Rating: 4.4/5
+Course Quality Rating: 4.5/5
+
+Enrollment: 87 students
+Teaching Eﬀectiveness Rating: 2.9/5
+Course Quality Rating: 3.1/5
+
+Enrollment: 34 students
+Teaching Eﬀectiveness Rating: 4.2/5
+Course Quality Rating: 4.1/5
+
+Enrollment: 109 students
+Teaching Eﬀectiveness Rating: 3.8/5
+Course Quality Rating: 4.0/5
+
+11. Introduction to Artiﬁcial Intelligence (CS 520, graduate course)
+
+Fall 2015
+
+10. Robot Learning (CS 674, graduate course)
+
+Spring 2016
+
+Technical University of Darmstadt, Darmstadt, Germany
+
+1. Robot Learning (20-00-0636-se), with Prof. Peters
+
+Summer 2012
+
+2. Autonomous Learning Systems (20-00-0630-se), with Prof. Peters
+
+Fall 2011, Fall 2012
+
+Laval University, Qu´ebec, Canada
+
+• Teaching Assistant of Probability Theory and Statistics (STT-10400)
+
+Fall 2007
+
+Paris-Sud University, Orsay, France
+
+• Tutor of Disabled Students
+
+2004-2005
+
+Refereed Journal
+and Conference
+Papers
+
+1. Baichuan Huang, Shuai D. Han, Jingjin Yu and Abdeslam Boularias. Visual Foresight Tree
+for Object Retrieval from Clutter with Nonprehensile Rearrangement. In IEEE Robotics and
+Automation Letters (RA-L), 2021.
+
+2. Shuai D. Han, Baichuan Huang, Changkyu Song, Si Wei Feng, Ming Xu, Abdeslam Boular-
+ias and Jingjin Yu. Toward Fully Automated Metal Recycling using Computer Vision and
+Non-Prehensile Manipulation. In Proceedings of the 17th IEEE International Conference on
+Automation Science and Engineering (CASE), Lyon, France, 2021.
+
+3. Andrew S Morgan, Bowen Wen, Junchi Liang, Abdeslam Boularias, Aaron Dollar and
+Kostas Bekris. Vision-driven Compliant Manipulation for Reliable, High-Precision Assembly
+Tasks. In Proceedings of Robotics: Science and Systems (R:SS), virtual, 2021.
+
+4. Junchi Liang and Abdeslam Boularias. Inferring Time-delayed Causal Relations in POMDPs
+from the Principle of Independence of Cause and Mechanism. In Proceedings of the 30th In-
+ternational Joint Conference on Artiﬁcial Intelligence (IJCAI), Montreal, Canada, 2021.
+
+5. Junchi Liang and Abdeslam Boularias. Self-Supervised Learning of Long-Horizon Manipu-
+lation Tasks with Finite-State Task Machines. In Proceedings of Machine Learning Research
+(PMLR). Presented at the Learning for Dynamics and Control Conference (L4DC), ETH
+Zurich, Switzerland, 2021.
+
+6. Juntao Tan, Changkyu Song and Abdeslam Boularias. A Self-Supervised Learning System
+for Object Detection in Videos Using Random Walks on Graphs. In Proceedings of the 2021
+International Conference on Robotics and Automation (ICRA), Xi’an, China, 2021.
+
+7. Baichuan Huang, Shuai D. Han, Abdeslam Boularias and Jingjin Yu. DIPN: Deep Inter-
+action Prediction Network with Application to Clutter Removal. In Proceedings of the 2021
+International Conference on Robotics and Automation (ICRA), Xi’an, China, 2021.
+
+8. Junchi Liang and Abdeslam Boularias. Learning Transition Models with Time-delayed
+Causal Relations. In Proceedings of the IEEE International Conference on Intelligent Robots
+and Systems (IROS), 2020.
+
+9. Changkyu Song and Abdeslam Boularias. A Probabilistic Model for Planar Sliding of Ob-
+jects with Unknown Material Properties: Identiﬁcation and Robust Planning. In Proceedings
+of the IEEE International Conference on Intelligent Robots and Systems (IROS), 2020.
+
+10. Chaitanya Mitash, Shome Rahul, Bowen Wen, Abdeslam Boularias and Kostas Bekris.
+Task-driven Perception and Manipulation for Constrained Placement with No Shape Priors.
+
+In IEEE Robotics and Automation Letters (IEEE RA-L), and the IEEE International Con-
+ference on Intelligent Robots and Systems (IROS), 2020.
+
+11. Changkyu Song and Abdeslam Boularias. Learning to Slide Unknown Objects with Dif-
+In Proceedings of Robotics: Science and Systems (R:SS),
+
+ferentiable Physics Simulations.
+Corvallis, Oregon, 2020.
+
+12. Changkyu Song and Abdeslam Boularias. Identifying Mechanical Models of Unknown Ob-
+jects with Diﬀerentiable Physics Simulations. In Proceedings of Machine Learning Research
+(PMLR). Presented at the Learning for Dynamics and Control Conference (L4DC), Berkeley,
+California, 2020
+
+13. Avishai Sintov, Andrew Kimmel, Bowen Wen, Abdeslam Boularias and Kostas Bekris.
+Tools for Data-driven Modeling of Within-Hand Manipulation with Underactuated Adaptive
+Hands. In Proceedings of Machine Learning Research (PMLR). Presented at the Learning
+for Dynamics and Control Conference (L4DC), Berkeley, California, 2020
+
+14. Liam Schramm, Avishai Sintov and Abdeslam Boularias. Learning to Transfer Dynamic
+Models of Underactuated Soft Robotic Hands. In Proceedings of the 2020 International Con-
+ference on Robotics and Automation (ICRA), Paris, France, 2020.
+
+15. Avishai Sintov, Andrew Kimmel, Kostas Bekris and Abdeslam Boularias. Motion Planning
+with Competency-Aware Transition Models for Underactuated Adaptive Hands. In Proceedings
+of the International Conference on Robotics and Automation (ICRA), Paris, France, 2020.
+
+16. Chaitanya Mitash, Bowen Wen, Kostas Bekris and Abdeslam Boularias. Scene-level Pose
+Estimation for Multiple Instances of Densely Packed Objects.
+In Proceedings of Machine
+Learning Research (PMLR). Presented at the Conference on Robot Learning (CoRL), Os-
+aka, Japan, 2019.
+
+17. Changkyu Song and Abdeslam Boularias. Object Rearrangement with Nested Nonprehen-
+sile Manipulation Actions. In Proceedings of the IEEE International Conference on Intelligent
+Robots and Systems (IROS), Macau, China, 2019.
+
+18. Andrew Kimmel, Avishai Sintov, Juntao Tan, Bowen Wen, Abdeslam Boularias and Kostas
+Bekris. Belief-Space Planning using Learned Models with Application to Underactuated Hands.
+In Proceedings of the International Symposium on Robotics Research (ISRR), Hanoi, Viet-
+nam, 2019.
+
+19. Chaitanya Mitash, Abdeslam Boularias and Kostas Bekris. Physics-based Scene-level Rea-
+soning for Object Pose Estimation in Clutter. In the International Journal of Robotics Re-
+search (IJRR), May 2019.
+
+20. Rahul Shome, Wei Tang, Changkyu Song, Chaitanya Mitash, Chris Kourtev, Jingjin Yu, Ab-
+deslam Boularias and Kostas Bekris. Towards Robust Product Packing with a Minimalistic
+End-Eﬀector. In Proceedings of the International Conference on Robotics and Automation
+(ICRA), Montreal, Canada, 2019. Nominated for Best Paper Award in Automation.
+
+21. Jean-Philippe Mercier, Chaitanya Mitash, Philippe Giguere, and Abdeslam Boularias.
+Learning Object Localization and 6D Pose Estimation from Simulation and Weakly Labeled
+
+Real Images.
+(ICRA), Montreal, Canada, 2019.
+
+In Proceedings of the International Conference on Robotics and Automation
+
+22. Avishai Sintov, Andrew Morgan, Andrew Kimmel, Aaron Dollar, Kostas Bekris, and Ab-
+deslam Boularias. Learning a State Transition Model of an Underactuated Adaptive Hand.
+In IEEE Robotics and Automation Letters (RA-L 2019), Vol. 4, No. 2 , and presented at
+the International Conference on Robotics and Automation (ICRA), Montreal, Canada, 2019.
+
+23. Changkyu Song and Abdeslam Boularias. Inferring 3D Shapes of Unknown Rigid Objects
+in Clutter through Inverse Physics Reasoning.
+In IEEE Robotics and Automation Letters
+(RA-L 2019), Vol. 4, No. 2 , and presented at the International Conference on Robotics and
+Automation (ICRA), Montreal, Canada, 2019.
+
+24. Chaitanya Mitash, Abdeslam Boularias and Kostas Bekris. Robust 6D Object Pose Estima-
+tion with Stochastic Congruent Sets. In Proceedings of The British Machine Vision Conference
+(BMVC), Newcastle, UK, 2018.
+
+25. Shaojun Zhu, David Surovik, Kostas Bekris, Abdeslam Boularias. Eﬃcient Model Identi-
+ﬁcation for Tensegrity Locomotion. In Proceedings of the IEEE International Conference on
+Intelligent Robots and Systems (IROS), Madrid, Spain, 2018
+
+26. Shaojun Zhu, Andrew Kimmel, Kostas Bekris and Abdeslam Boularias. Fast Model Iden-
+tiﬁcation via Physics Engines for Improved Policy Search. In Proceedings of the 27th Interna-
+tional Joint Conference on Artiﬁcial Intelligence (IJCAI), Stockholm, Sweden, 2018
+
+27. Chaitanya Mitash, Abdeslam Boularias and Kostas Bekris. Improving 6D Pose Estimation
+of Objects in Clutter via Physics-aware Monte Carlo Tree Search. In Proceedings of the IEEE
+International Conference on Robotics and Automation (ICRA), Brisbane, Australia, 2018
+
+28. Chaitanya Mitash, Kostas Bekris and Abdeslam Boularias. A Self-supervised Learning Sys-
+tem for Object Detection using Physics Simulation and Multi-view Pose Estimation. In Pro-
+ceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS),
+Vancouver, Canada, 2017.
+
+29. Zhikun Wang, Abdeslam Boularias, Katharina M¨ulling, Bernhard Sch¨olkopf and Jan Peters.
+Anticipatory Action Selection for Human-Robot Table Tennis. In Artiﬁcial Intelligence, Vol-
+ume 247, Pages 399-414, June 2017.
+
+30. Abdeslam Boularias, Felix Duvallet, Jean Oh and Anthony Stentz. Learning Qualitative
+Spatial Relations for Robotic Navigation. In Proceedings of the 25th International Joint Con-
+ference on Artiﬁcial Intelligence (IJCAI), New York, USA, 2016.
+
+31. Jean Oh, Thomas Howard, Matthew Walter, Daniel Barber, Menglong Zhu, Sangdon Park,
+Arne Suppe, Luis Navarro-Serment, Felix Duvallet, Abdeslam Boularias, Oscar Romero,
+Jerry Vinokrov, Terence Keegan, Robert Dean, Craig Lennon, Barry Bodt, Marshal Childers,
+Jianbo Shi, Kostas Daniilidis, Nicholas Roy, Christian Lebiere, Martial Hebert and Anthony
+Stentz. Integrated Intelligence for Human-Robot Teams. In Proceedings of The International
+Symposium on Experimental Robotics (ISER), 2016.
+
+32. Samory Kpotufe, Abdeslam Boularias, Thomas Schultz, and Kyoungok Kim. Gradient
+Weights Improve Regression and Classiﬁcation. In the Journal of Machine Learning Research
+(JMLR), 2016.
+
+33. Abdeslam Boularias, Felix Duvallet, Jean Oh and Anthony Stentz. Learning to Ground
+Spatial Relations for Outdoor Robot Navigation. In Proceedings of 2015 IEEE International
+Conference on Robotics and Automation (ICRA), Seattle, USA, 2015.
+Best Cognitive Robotics Paper Award (out of 2275 submissions).
+
+34. Jean Oh, Arne Suppe, Felix Duvallet, Abdeslam Boularias, Jerry Vinokurov, Luis Navarro-
+Serment, Oscar Romero, Robert Dean, Christian Lebiere, Martial Hebert and Anthony Stentz.
+Toward Mobile Robots Reasoning Like Humans. In Proceedings of the Twenty-Ninth AAAI
+Conference on Artiﬁcial Intelligence (AAAI), Austin, Texas, USA, 2015.
+Selected for oral presentation
+
+35. Abdeslam Boularias, J. Andrew Bagnell and Anthony Stentz. Learning to Manipulate
+In Proceedings of the Twenty-Ninth AAAI
+
+Unknown Objects in Clutter by Reinforcement.
+Conference on Artiﬁcial Intelligence (AAAI), Austin, Texas, USA, 2015.
+Selected for oral presentation
+
+36. Abdeslam Boularias, J. Andrew Bagnell and Anthony Stentz. Eﬃcient Optimization for
+Autonomous Robotic Manipulation of Natural Objects. In Proceedings of the Twenty-Eighth
+National Conference on Artiﬁcial Intelligence (AAAI), Quebec City, Quebec, Canada, 2014.
+
+37. Claudio Persello, Abdeslam Boularias, Michele Dalponte, Terje Gobakken, Erik Naesset
+and Bernhard Sch¨olkopf. Cost-Sensitive Active Learning With Lookahead: Optimizing Field
+Surveys for Remote Sensing Data Classiﬁcation.
+In IEEE Transactions on Geoscience
+and Remote Sensing 99: 1-13, 2014.
+
+38. Katharina M¨ulling, Abdeslam Boularias, Betty Mohler, Bernhard Sch¨olkopf and Jan Pe-
+ters. Learning Strategies in Table Tennis using Inverse Reinforcement Learning. In Biological
+Cybernetics 108(5): 603-619 , 2014.
+
+39. Abdeslam Boularias and Brahim Chaib-draa. Apprenticeship Learning with Few Demon-
+
+strations. In Neurocomputing 104: 83-96, 2013.
+
+40. Abdeslam Boularias, Oliver Kr¨omer and Jan Peters. Algorithms for Learning Markov Field
+Policies. In Advances in Neural Information Processing Systems 26 (NIPS), Lake Tahoe, NV,
+USA, 2012.
+
+41. Samory Kpotufe and Abdeslam Boularias. Gradient Weights help Nonparametric Regres-
+sors. In Advances in Neural Information Processing Systems 26 (NIPS), Lake Tahoe, NV,
+USA, 2012.
+Selected for plenary presentation: 1.36% acceptance rate
+
+42. Yu Nishiyama, Abdeslam Boularias, Arthur Gretton and Kenji Fukumizu. Hilbert Space
+Embeddings of POMDPs. In Proceedings of the Twenty-Eighth Conference on Uncertainty in
+Artiﬁcial Intelligence (UAI), Catalina Island, CA, USA, 2012.
+
+43. Abdeslam Boularias, Oliver Kr¨omer and Jan Peters. Structured Apprenticeship Learning.
+In Proceedings of the Twenty-Third European Conference on Machine Learning (ECML),
+Bristol, UK, 2012.
+
+44. Abdeslam Boularias, Oliver Kr¨omer and Jan Peters. Learning Robot Grasping from 3-D
+Images with Markov Random Fields. In Proceedings of the IEEE/RSJ International Confer-
+ence on Intelligent Robots and Systems (IROS), San Francisco, CA, USA, 2011.
+
+45. Zhikun Wang, Abdeslam Boularias, Katharina M¨ulling and Jan Peters. Balancing Safety
+and Exploitability in Opponent Modeling. In Proceedings of the Twenty-Fifth National Con-
+ference on Artiﬁcial Intelligence (AAAI), San Francisco, CA, USA, 2011.
+
+46. Abdeslam Boularias, Jens Kober and Jan Peters. Relative Entropy Inverse Reinforcement
+Learning. In Proceedings of the International Conference on Artiﬁcial Intelligence and Statis-
+tics (AISTATS), Fort Lauderdale, FL, USA, 2011. Volume 15 of JMLR.
+
+47. Abdeslam Boularias and Brahim Chaib-draa. Bootstrapping Apprenticeship Learning. In
+Advances in Neural Information Processing Systems 24 (NIPS), Vancouver, Canada, 2010.
+
+48. Abdeslam Boularias and Brahim Chaib-draa. Apprenticeship Learning via Soft Local Ho-
+momorphisms. In Proceedings of 2010 IEEE International Conference on Robotics and Au-
+tomation (ICRA), Anchorage, USA, 2010.
+
+49. Abdeslam Boularias and Brahim Chaib-draa. Predictive Representations for Policy Gra-
+In Proceedings of the International Conference on Machine Learning
+
+dient in POMDPs.
+(ICML), Montreal, Canada, 2009.
+
+50. Abdeslam Boularias and Brahim Chaib-draa. Exact Dynamic Programming for Decentral-
+ized POMDPs with Lossless Policy Compression. In Proceedings of the International Confer-
+ence on Automated Planning and Scheduling (ICAPS), Sydney, Australia, 2008.
+
+51. Abdeslam Boularias. A Predictive Model for Imitation Learning in Partially Observable
+Environments. In Proceedings of the International Conference on Machine Learning and Ap-
+plications (ICMLA), San Diego, CA, USA, 2008.
+
+52. Abdeslam Boularias, Masoumeh Izadi and Brahim Chaib-draa. Prediction-directed Com-
+pression of POMDPs. In Proceedings of the International Conference on Machine Learning
+and Applications (ICMLA), San Diego, CA, USA, 2008.
+
+53. Abdeslam Boularias, Masoumeh Izadi and Brahim Chaib-draa. State Space Compression
+In Proceedings of 21st International FLAIRS Conference,
+
+with Predictive Representations.
+Coconut Grove, FL, USA, 2008.
+
+54. Andriy Burkov, Abdeslam Boularias and Brahim Chaib-draa (2007). Competition and Co-
+ordination in Stochastic Games. In Proceedings of the 20th Canadian Conference on Artiﬁcial
+Intelligence, Montr´eal, Canada, 2007.
+
+Refereed
+Workshop Papers
+
+1. Chaitanya Mitash, Bowen Wen, Kostas Bekris, and Abdeslam Boularias. Scene-level Pose
+Estimation for Multiple Instances of Densely Packed Objects. In the RSS Pioneers Workshop,
+Robotics: Science and Systems (RSS), Freiburg, Germany, 2019.
+
+2. Avishai Sintov, Andrew Kimmel, Abdeslam Boularias and Kostas Bekris. Data-based
+Within-hand Manipulation of an Underactuated Adaptive Hand. In the ICRA 2019 Work-
+shop on Benchmarks for Robotic Manipulation.
+
+3. Rahul Shome, Wei N. Tang, Chaitanya Mitash, Abdeslam Boularias, Jingjin Yu, and Kostas
+Bekris. An Eﬃcient Pipeline for Pick-and-Place Between Bins for Warehouse Automation. In
+the IROS 2018 Workshop on Robotics for logistics in warehouses and environments shared
+with humans.
+
+4. Jean-Philippe Mercier, Chaitanya Mitash, Philippe Gigure and Abdeslam Boularias. Learn-
+ing Object Localization and 6D Pose Estimation from Simulation and Weakly Labeled Real
+Images. In the 4th International Workshop on Recovering 6D Object Pose. ECCV 2018.
+
+5. Jean-Philippe Mercier, Chaitanya Mitash, Philippe Giguere and Abdeslam Boularias. Learn-
+ing Object Localization and 6D Pose Estimation from Simulation and Weakly Labeled Real
+Images. In the Montreal AI Symposium 2018.
+
+6. Chaitanya Mitash, Abdeslam Boularias and Kostas Bekris. Robust 6D Object Pose Esti-
+mation with Stochastic Congruent Sets. In the 4th International Workshop on Recovering 6D
+Object Pose. ECCV 2018.
+
+7. Shaojun Zhu, David Surovik, Kostas Bekris and Abdeslam Boularias. Information-Eﬃcient
+Model Identiﬁcation for Tensegrity Robot Locomotion. In AAAI 2018 Spring Symposium on
+Integrating Representation, Reasoning, Learning, and Execution for Goal Directed Autonomy.
+
+8. Chaitanya Mitash, Abdeslam Boularias and Kostas Bekris. Object Detection and Pose
+Estimation for Robotic Manipulation using Physics Simulation and Monte Carlo Tree Search.
+In Northeast Robotics Colloquium (NERC), Boston, 2017
+
+9. Chaitanya Mitash, Kostas Bekris and Abdeslam Boularias. Physics-aware Simulation and
+a Self-Supervised Learning System for Object Detection and Pose Estimation. In ICRA’17
+Workshop on Warehouse Picking Automation.
+
+10. Shaojun Zhu and Abdeslam Boularias. A Physically-Grounded and Data-Eﬃcient Ap-
+proach to Motion Prediction Using Black-Box Optimization. In NIPS’16 Workshop on Intu-
+itive Physics and NIPS’16 Workshop on Bayesian Optimization.
+
+11. Katharina M¨ulling, Abdeslam Boularias, Betty Mohler, Bernhard Sch¨olkopf and Jan Pe-
+ters. Inverse Reinforcement Learning for Strategy Extraction. In Proceedings of ECML’13
+Workshop on Machine Learning and Data Mining for Sports Analytics.
+
+12. Abdeslam Boularias, Oliver Kr¨omer and Jan Peters. Structured Apprenticeship Learning.
+In Proceedings of the 10th European Workshop on Reinforcement Learning (EWRL’12), 2012.
+
+13. Yu Nishiyama, Abdeslam Boularias, Arthur Gretton and Kenji Fukumizu. Kernel Bellman
+In Proceedings of the Technical Committee on Information-Based
+
+Equations in POMDPs.
+Induction Sciences and Machine Learning (IBISML 2012), Tokyo, Japan, 2012.
+
+14. Abdeslam Boularias, Hamid R. Chinaei and Brahim Chaib-draa. Learning the Reward
+Model of Dialogue POMDPs. In NIPS’10 Workshop on Machine Learning for Assistive Tech-
+nology (MLAT-2010), Vancouver, Canada, 2010.
+
+15. Abdeslam Boularias and Brahim Chaib-draa. Policy Transfer in Apprenticeship Learning.
+
+In NIPS’09 Workshop on Transfer Learning for Structured Data, Vancouver, Canada, 2009.
+
+16. Abdeslam Boularias and Brahim Chaib-draa. Learning Probabilistic Models via Bayesian
+Inverse Planning. In NIPS’09 Workshop on Probabilistic Approaches for Robotics and Con-
+trol, Vancouver, Canada, 2009.
+
+17. Abdeslam Boularias and Brahim Chaib-draa. Planning in Decentralized POMDPs with
+Predictive Policy Representations. In Proceedings of ICAPS’08 Multi-agent Planning Work-
+shop (MASPLAN’08), Sydney, Australia, 2008.
+
+18. Abdeslam Boularias and Brahim Chaib-draa. Les Repr´esentations Pr´edictives des ´Etats et
+des Politiques. In Actes des Quatri`emes Journ´ees Francophones Mod`eles Formels de l’Int´eraction
+(MFI’07), Paris, France, 2007.
+
+theses
+
+1. Abdeslam Boularias. Predictive Representations For Sequential Decision Making Under
+
+Uncertainty. Laval University, Canada, 2010.
+
+2. Abdeslam Boularias. Using Predictive Representations for Planning and Learning in Par-
+
+tially Observable Systems. Laval University, Canada, 2008.
+
+3. Abdeslam Boularias. Vers une approche alliant les repr´esentations pr´edictives des ´etats et
+
+les options pour la prise de la d´ecision. Laval University, Canada, 2006.
+
+4. Abdeslam Boularias. MPICH-V3: un MPI tol´erant aux d´efaillances pour les Grilles. Uni-
+
+versity of Paris-Sud, France, 2005.
+
+5. Abdeslam Boularias and Belaid Saad.
+
+Impl´ementation et ´etude des performances de la
+
+structure Compact Trie Hashing (CTH*). ESI, Algeria, 2004.
+
+1. National Science Foundation (NSF): NRI: Robust and Eﬃcient Physics-Based Learning and
+Reasoning in Degraded Environments. PI: Abdeslam Boularias, co-PI: Jingjin Yu, co-PI:
+Mridul Aanjaneya. Amount: $1,490,276. 2021-2025.
+
+2. National Science Foundation (NSF): RI: CAREER: Task-Oriented Model Identiﬁcation for
+Robust Robotic Manipulation. Sole PI: Abdeslam Boularias. Amount: $535,896. 2019-2024.
+
+Funding
+
+Total: $4,557,907.
+
+3. National Science Foundation (NSF): S&AS: FND: Reﬂective Learning of Stochastic Physical
+Models for Robust Manipulation. PI: Abdeslam Boularias, co-PIs: Kostas Bekris and Mub-
+basir Kapadia. Amount: $682,646. 2017-2020.
+
+4. National Science Foundation (NSF): NRI: INT: COLLAB: Integrated Modeling and Learning
+for Robust Grasping and Dexterous Manipulation with Adaptive Hands. PI: Kostas Bekris,
+co-PI: Abdeslam Boularias. Amount: $867,729. 2017-2021.
+
+5. GEMChina: Intelligent and High-Eﬃciency Recycling of Non-Ferrous Metals Through Com-
+puter Vision Driven Robotics. PI: Jingjin Yu, co-PI: Abdeslam Boularias. Amount: $601,360.
+2018-2020.
+
+6. JD.com, Inc: Conﬁgurable Hand for Intelligent Material Picking. PI: Kostas Bekris, co-PIs:
+
+Abdeslam Boularias and Jingjin Yu. Amount: $240,000. 2017-2018.
+
+7. General Dynamics Corporation, Collaborative Technology Alliance Program: Learning Me-
+chanical and Geometric Models of Unknown Objects Online. Sole PI: Abdeslam Boularias.
+Amount: $80,000. 2017-2018.
+
+8. General Dynamics Corporation, Collaborative Technology Alliance Program: Learning Spatial
+Relations for Manipulating Unknown Objects. Sole PI: Abdeslam Boularias. Amount: $60,000.
+2016-2017.
+
+Scholarships and
+Fellowships
+
+Research Fellowship, The Max Planck Society for the Advancement of Science, 2011-2013.
+Research Fellowship, The European Union Framework Programs, 2010-2011.
+Scholarship of Quebec Ministry of Education, 2006-2008.
+Key contributions to a grant of Fonds Qu´eb´ecois de la Recherche sur la Nature et les Technologies
+(FQRNT), 2008.
+
+Journal Article
+Reviewing
+
+IEEE Transactions on Systems, Man, and Cybernetics, 2009 and 2010.
+IEEE Transactions on Cybernetics, 2015.
+Neurocomputing, 2011.
+Robotics and Autonomous Systems, 2012.
+Neural Networks, 2013.
+Neural Computation, 2013.
+Autonomous Robots, 2013, 2019 and 2020.
+Journal of Machine Learning Research, 2013, 2016, 2017 and 2020.
+IEEE Transactions on Robotics, 2016 and 2017.
+IEEE Robotics and Automation Letters, 2016, 2017, 2018, 2019 and 2020.
+Robotics and Autonomous Systems, 2017.
+Machine Learning, 2017.
+International Journal of Robotics Research, 2017
+Journal of Field Robotics, 2021.
+
+Program
+Committee
+Membership
+
+International Workshop on the Algorithmic Foundations of Robotics (WAFR), 2020.
+Annual Conference on Robot Learning (CoRL), 2017 and 2019.
+International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2008.
+North-East Student Colloquium on Artiﬁcial Intelligence (NESCAI), 2008.
+International Joint Conference on Artiﬁcial Intelligence (IJCAI), 2009.
+International Conference on Intelligent Robots and Systems (IROS), 2009, 2010, 2011, 2012, 2016,
+
+2019 and 2020.
+International Conference on Humanoid Robots (Humanoids), 2010, 2011, 2013 and 2014.
+Snowbird Learning Workshop, 2011 and 2012.
+International Conference on Robotics and Automation (ICRA), 2011, 2012, 2013, 2014, 2015, 2016,
+2017, 2018, 2019 and 2020.
+Annual Conference on Neural Information Processing Systems (NIPS), 2011, 2013, 2014, 2015, 2016
+and 2017.
+International Colloquium on Automata, Languages and Programming (ICALP), 2013.
+International Conference on Artiﬁcial Intelligence and Statistics (AISTATS), 2017, 2018, 2019 and
+2020.
+International Conference on Learning Representations (ICLR), 2018, 2019.
+Robotics: Science and Systems (R:SS), 2015, 2016, 2019, 2020 and 2021.
+International Conference on Artiﬁcial Neural Networks (ICANN), 2011.
+European Workshop on Reinforcement Learning (EWRL), 2012.
+Fall Symposium of the Association for the Advancement of Artiﬁcial Intelligence (AAAI), 2012.
+IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL), 2013.
+International Conference on Machine Learning (ICML), 2012, 2013 and 2018.
+European Conference on Machine Learning (ECML PKDD), 2013
+
+Senior Program
+Committee
+Membership
+
+Association for the Advancement of Artiﬁcial Intelligence (AAAI), 2012.
+International Joint Conference on Artiﬁcial Intelligence (IJCAI), 2013.
+
+Associate Editor International Conference on Robotics and Automation (ICRA), 2021 and 2022.
+
+International Conference on Intelligent Robots and Systems (IROS), 2014, 2015, 2016 and 2017.
+
+Area Chair
+
+Grant and
+Fellowship
+Reviewing
+
+Currently
+Advised Ph.D.
+Students at
+Rutgers
+
+Advised Ph.D.
+Students at
+Rutgers
+
+Advised Postdoc
+at Rutgers
+
+International Conference on Machine Learning (ICML), 2021
+International Conference on Learning Representations (ICLR), 2021 and 2022
+International Conference on Artiﬁcial Intelligence and Statistics (AISTATS), 2022
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2018, 2019 and 2020.
+Uncertainty in Artiﬁcial Intelligence (UAI), 2020.
+Annual Conference on Robot Learning (CoRL), 2018, 2020 and 2021.
+
+NSF program, Smart and Autonomous Systems (once).
+NSF program, National Robotics Initiative 2.0: Ubiquitous Collaborative Robots (twice).
+NSF program, Research Traineeship (NRT) program (once).
+European Coordinated Research on Long-term Challenges in Information and Communication Sci-
+ences & Technologies (CHIST-ERA), 2017.
+The Natural Sciences and Engineering Research Council of Canada (NSERC), 2012 .
+AAAI Robotics Fellowships, 2015 and 2016.
+
+1. Junchi Liang. Advising since September 2016.
+
+2. Liam Schramm. Advising since September 2018.
+
+3. Shuo Zhang. Advising since September 2019.
+
+4. Haonan Chang. Advising since September 2020.
+
+Chaitanya Mitash, Ph.D. March 2016 - July 2020. Now a Research Scientist at Amazon Robotics.
+Changkyu Song, Ph.D. September 2017 - April 2021. Now a Research Scientist at Waymo.
+
+Avishai Sintov, May 2018 - September 2019. Now an Assistant Professor at Tel Aviv University.
+
+Supervised M.S.
+Students at
+Rutgers
+
+tion Tasks.
+
+1. Juntao Tan, 2019. Project: Transfer Learning of Dynamics Models.
+
+2. Aravind Sivaramakrishnan, 2018. Project: Apprenticeship Learning of Sequential Manipula-
+
+3. Shaojun Zhu (co-advised), 2017. Project: Closing the Reality Gap of Robotic Simulators
+
+through Task-oriented Bayesian Optimization.
+
+4. Yikun Xian, 2016. Project: Model-based Deep RL for Playing Atari Games.
+
+1. Lance Luo, Summer 2019. Project: Design and Implementation of a Neural Network for
+
+Learning the Dynamics of a Robotic Hand.
+
+2. Yuxuan Wu, Summer 2019. Project: Deep RL for Grasping Objects in Dense Clutter.
+
+3. Ruipeng Zhang, Summer 2019. Project: Deep RL for Grasping Objects in Dense Clutter.
+
+1. Katharina M¨ulling, Ph.D., Max Planck Institute for Intelligent Systems. Now at Google X.
+
+2. Zhikun Wang, Ph.D., Max Planck Institute for Intelligent Systems. Now at Google.
+
+Supervised
+Undergraduate
+Interns at
+Rutgers
+
+Co-advised
+Students
+
+Ph.D. and M.S.
+Thesis
+Committees
+
+3. Jean-Philippe Mercier, Ph.D., Laval University.
+
+4. Brahim El Moumni, M.S., Laval University.
+
+5. Allain Sulface, M.S., Laval University.
+
+Shuai D. Han, Ph.D., Rutgers University, 2021.
+Mohamed Abdellatif, Ph.D., Rutgers University, 2021.
+Alireza Naghizadeh, Ph.D., Rutgers University, 2020.
+Yikai Zhang, Ph.D., Rutgers University, 2020.
+Tugba Kulahcioglu, Ph.D., Rutgers University, 2020.
+Hristiyan (Chris) Kourtev, M.S., Rutgers University, 2018.
+Zacharias Psarakis, M.S., Rutgers University, 2018.
+Yang Yu, M.S., Rutgers University, 2017.
+Pritish Sahu, M.S., Rutgers University, 2017.
+Aditya Chukka, M.S., Rutgers University, 2017.
+Colin Rennie, M.S., Rutgers University, 2017.
+Behnam Babagholami, Ph.D., Rutgers University, 2019.
+Jean-Philippe Mercier, Ph.D., Laval University, 2021.
+Rahul Shome, Ph.D., Rutgers University, 2020.
+Zachary Littleﬁeld, Ph.D., Rutgers University, 2020.
+Mohamed El Hosseiny, Ph.D., Rutgers University, 2016.
+Tarek El-Gaaly, Ph.D., Rutgers University, 2015.
+
+Ph.D. Qualifying
+Committees
+
+Mihee Lee (2020), Liam Schramm (2020), Junchi Liang (2020), Baber Khalid (2020), Yanshi Luo
+(2020), Han Shuai (2019), Guang Wang (2019), Wei Tang (2019), Chaitanya Mitash (2019), Changkyu
+Song (2019), Mohammadreza Soltaniyeh (2019), Mohamed Abdellatif (2019), Zhiqiang Tang (2018),
+Mahyar Khayatkhoei (2018), Behnam Gholami (2018), Rahul Shome (2018), Cong Zhang (2017),
+Mengsong Zou (2016), Jie Schen (2016).
+
+Department
+service
+
+Rutgers DCS Website Committee, Rutgers University, 2019-2020.
+M.S. Admissions Committee, Rutgers University, 2015, 2016, 2017, 2018 and 2019.
+Faculty Search Committee, Rutgers University, 2016, 2018 and 2019.
+Co-organizer of weekly seminars at CBIM, Rutgers University, 2016 and 2017.
+Organizer of weekly seminars at the computer science department of Laval University, 2008.
+
+Invited Talks
+
+Software
+Releases
+
+Organization
+
+McGill University (Canada, 2007 and 2009), Max Planck Institute for Intelligent Systems (Germany,
+2010), Alberta Ingenuity Centre for Machine Learning (Canada, 2010), Technical University of
+Darmstadt (Germany, 2011), INRIA SequeL (France, 2011), IBM Dublin (Ireland, 2013), University
+of Ottawa (Canada, 2013), Laval University (Canada 2015), Tufts University (US, 2015), University
+of Utah (US, 2015), Rutgers University (US, 2015), Stevens Institute (US, 2015), Arizona State
+University (US, 2015), University of British Columbia (Canada, 2015), Laval University (Canada
+2020), University of Alberta (Canada, 2020), Karlsruhe Institute of Technology (Germany, 2020),
+Technical University of Darmstadt (Germany, 2020).
+
+• Faculty mentor of the ModelMatching too for 6D object pose estimation with stochastic con-
+gruent sets. The tool is publicly available at https://github.com/cmitash/model_matching.
+
+• Faculty mentor of the multi-instance-pose-estimation tool for multi-instance 6D object pose es-
+timation. The tool is publicly available at https://github.com/cmitash/multi-instance-
+pose-estimation.
+
+• Faculty mentor of the PoseSelection tool to render a set of pose hypotheses for an object and
+compare it to a depth image. The tool is publicly available at https://github.com/cmitash/
+pose_selection.
+
+• Faculty mentor of the physim-dataset-generator tool to generate physically realistic synthetic
+datasets of cluttered scenes using 3D CAD models to train CNN-based object detectors. The
+tool is publicly available at https://github.com/cmitash/physim-dataset-generator.
+
+• Faculty mentor of the Label6DPose tool to label 6d pose of objects in images by manually
+aligning object models to the point-cloud obtained from depth and color image. The tool is
+publicly available at https://github.com/cmitash/Label6DPose.
+
+• Faculty mentor of the PhysimGlobalPose tool, a C++ implementation for search based 6d
+pose estimation of objects in clutter. The tool is publicly available at https://github.com/
+cmitash/PhysimGlobalPose.
+
+• Faculty mentor of the CalibrateViewsPCL tool for calibrating multiple views for merging point
+cloud. The tool is publicly available at https://github.com/cmitash/CalibrateViewsPCL.
+
+• Faculty mentor of the t42AutonomousSystem tool kit for learning the dynamics of an under-
+
+actuated hand. The tool is publicly available at https://github.com/avishais/t42_autonomous_
+system.
+
+• Faculty mentor of the gazebo-adaptive-hand-simulator tool for simulating an adaptive hand.
+The tool is publicly available at https://github.com/avishais/gazebo_adaptive_hand_
+simulator.
+
+• Faculty mentor of the Rutgers Underactuated-hand Manipulation (RUM) dataset. Webpage
+and source code are publicly available at https://github.com/avishais/underactuated_
+hand_tools.
+
+• Faculty mentor of the IPR dataset for interactive volumetric shape completion. Webpage and
+source code are publicly available at https://sites.google.com/site/changkyusong86/
+research/iros2018?authuser=0.
+
+• Co-organizer (with Francesco Dinuzzo) of the workshop: Machine Learning for System Iden-
+
+tiﬁcation at ICML 2013. http://mlsysid.tuebingen.mpg.de/
+
+• Co-organizer (with Brian Ziebart) of the workshop: New Developments in Imitation Learning
+
+at ICML 2011. https://www.ias.informatik.tu-darmstadt.de/Research/ICML2011
+
+• Co-organizer (with Kostas Bekris and Jingjin Yu) of the VIIth Northeast Robotics Colloquium
+
+(NERC VII), 2018. http://northeastrobotics.org/
+
+• Co-organizer (with Ahmed Guessoum and Djalel Benbouzid) of the First Machine Learning
+Summer School (MLSS) in Algiers, Algeria, 2018. https://mlschool.org/algiers2018/
+
+• Co-organizer (with Mridul Aanjaneya) of the TRIPODS Data Science Boot Camp: Matching
+Robot Simulations to Reality. Rutgers University, 2021. http://robotics.cs.rutgers.edu/
+data-inspire/boot-camp/
+
+Computer Skills C++, Matlab, CPLEX, MPI (Message Passing Interface), Parallel Computing, PCL (Point Cloud
+
+Library), Eigen, OpenCV, ROS (Robot Operating System)
+
+References
+
+Prof. Jan Peters
+Technische Universit¨at Darmstadt
+Hochschulstr. 10
+64289 Darmstadt, Germany
+mail@jan-peters.net
+
+Prof. J. Andrew Bagnell
+Carnegie Mellon University
+National Robotics Engineering Center
+10 40th St, Pittsburgh, PA 15201, USA
+dbagnell@ri.cmu.edu
+
+Prof. Anthony Stentz
+Carnegie Mellon University
+National Robotics Engineering Center
+10 40th St, Pittsburgh, PA 15201, USA
+axs@rec.ri.cmu.edu
+
+Prof. Joelle Pineau
+McGill University
+3480, rue de l’Universit´e
+H3A 2A7 Montr´eal, Canada
+jpineau@cs.mcgill.ca
+
+Prof. Bernhard Sch¨olkopf
+Max-Planck-Institut f¨ur Intelligente Systeme
+Spemannstraße 38
+72076 T¨ubingen, Germany
+sekretariat-schoelkopf@tuebingen.mpg.de
+
+Prof. Brahim Chaib-draa
+Universit´e Laval
+1065, avenue de la M´edecine
+G1K 7P4 Qu´ebec, Canada
+Brahim.Chaib-Draa@ift.ulaval.ca
+
+

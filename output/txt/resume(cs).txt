@@ -1,0 +1,117 @@
+ADEBESIN AYOBAMI SODIQ
+
+Github: AyobamiAdebesin
+
+RESEARCH INTERESTS AND ACADEMIC PURSUITS
+
+Email: froshofficial@gmail.com
+
+Phone: +234 8175349433
+
+My research interests lie in Machine Learning, Scalable Deep Learning, Deep Reinforcement Learning that can serve as an extension
+for sequential decision making, Robotics and Computer Vision.
+
+EDUCATION
+
+• Obafemi Awolowo University (BSc. Mathematics)
+
+• Loyola College Ibadan
+
+RELEVANT COURSEWORK
+
+(April 2017 - Present)
+
+(Sept 2007 - March 2013)
+
+◦ Statistics and Probability, Linear Algebra, Mathematical Modeling, Real Analysis, Complex Analysis, General Topology, Measure
+Theory and Integration, Normed Linear Spaces, Theory and Applications of Differential Equations(Ordinary and Partial), Computer
+programming(Python), Modern Physics.
+
+PROJECTS
+
+Image Classification: Identifying SAEON Marine Invertebrates
+
+• I participated in Zindi Hackathon during which I built a computer vision model to recognize and classify 137 species of SAEON
+Marine Invertebrates, using the Python programming language and TensorFlow framework. Using the VGG16 pre-trained model
+(with no classifier), I performed feature extraction, data pre-processing and built a custom classifier. I obtained an accuracy of
+0.98 on the training datasets.
+
+Image Classification: Identifying roads with Potholes in South Africa
+
+• I built a model a computer vision model to identify which roads on South Africa contains potholes using Keras framework
+
+and a pretrained DenseNet201 network.
+
+Caputo fractional diffusion equation for an incompressible quasi-steady flow (Undergraduate thesis)
+
+• I examined the Maxwell-Cattaneo’s law of heat conduction in a purely thermally driven fluid, as an improvement to the
+Fourier’s law. To account for non-linearities in time, I replaced the time derivative in the diffusion equation with Caputo fractional
+time derivative and I obtained the heat distribution in the fluid in terms of the Fox-Wright functions by solving the coupled
+momentum-diffusion equation using Laplace, Fourier and Mellin transforms and I was able to derive the velocity field for a quasi-
+steady flow analytically. This has applications in engineering to determine the temperature field of a flow on smaller time scales.
+
+PROGRAMMING SKILLS/EXPERIENCE
+
+• Languages: Python, Dart, OpenCV, LaTex, Maple, SAGEMATH.
+
+• Software Packages: Microsoft Office,Visual Studio Code, Android Studio, PyCharm, Anaconda.
+
+• Libraries/Frameworks: TensorFlow, Keras, PyTorch, Flutter, Django, Flask, Streamlit.
+
+LEADERSHIP/VOLUNTEER/WORK EXPERIENCE
+
+Blackathon
+
+(November 2021 - Present)
+• I am currently of the organizers of Blackathon, a programming contest for blacks founded by Lelia Hampton, a PhD student
+in Computer Science at the Massachusetts Institute of Technology. I am leading and coordinating participants from Nigeria, and I
+am in charge of organizing teams and participants from all over the world.
+
+Fundamentals of Artificial Intelligence Workshop, Ile-Ife, Nigeria
+
+(January 2020)
+
+• Program Facilitator and Instructor for Fundamentals of AI Workshop for Secondary School Students in Ile-Ife, Osun State,
+
+Nigeria.
+
+Software Developer Intern - Quicker Freight Technologies
+
+(November 2021 - Present)
+• I am currently working as an intern in building and deploying native mobile apps(Android) using the Flutter framework and
+
+Dart programming language. I work mostly with the frontend and I have started learning the backend.
+
+SCUDEM Mathematical Modeling Challenge
+
+(November 2019, 2020)
+
+• I led a team of students to participate in an online mathematical modelling challenge where we used mathematical modelling
+
+and differential equations to solve real world problems (Moon Landing Problems, Population Dynamics, etc).
+
+SOCIETY MEMBERSHIP
+
+• Data Science Nigeria Campus Club (AI+ OAU)
+
+• Black In AI
+
+• National Association of Mathematical Science Students of Nigeria.
+
+SCOLARSHIP, AWARDS AND HONORS
+
+• Professor Akfuwape Prize Award for Outstanding Student (Obafemi Awolowo University)
+
+(March 2019)
+
+• SCUDEM Meritorious Award (Decay of Oil Agglomerates From The Deepwater Horizon Accident).
+
+(November 2020)
+
+• International Youth Math Challenge Participation Certificate
+
+• International Astronomy and Astrophysics Challenge Participation Certificate.
+
+1
+
+

@@ -1,0 +1,462 @@
+Christopher A. Metzler
+
+(cid:84) 720-201-6309
+(cid:66) metzler@umd.edu
+
+Academic Appointments and Education
+
+Since 01/21 Assistant Professor, University of Maryland, Computer Science and UMI-
+ACS (Electrical and Computer Engineering by courtesy), College Park, MD.
+
+02/19–12/20 Postdoctoral Researcher, Stanford University, Electrical Engineering,
+
+Stanford, CA.
+Advisor: Gordon Wetzstein
+
+01/15–1/19 Doctor of Philosophy, Rice University, Electrical and Computer Engineer-
+
+ing, Houston, TX.
+Thesis: Data-driven Computational Imaging with Applications to Imaging Through
+and Around Obstacles
+Advisors: Richard Baraniuk and Ashok Veeraraghavan
+
+08/13–12/14 Master of Science, Rice University, Electrical and Computer Engineering,
+
+Houston, TX.
+Thesis: Denoising-based Approximate Message Passing for Compressed Sensing
+Advisor: Richard Baraniuk
+
+08/9–05/13 Bachelor of Science, Rice University, Electrical and Computer Engineering,
+
+Houston, TX.
+Magna Cumme Laude
+
+Research Interests
+
+Awards
+
+I develop new systems and algorithms for solving problems in computational imaging, machine
+learning, and wireless communications.
+
+2019 Best Contribution Award, International Biomedical and Astronomical
+
+Signal Processing Frontiers Workshop.
+
+2019 Alan Berman Research Publication Award, Naval Research Laboratory.
+
+2017 Runner-up Best Paper, International Conference on Computational
+
+Photography.
+
+2015 Top 10% Paper, International Conference on Image Processing.
+
+2019 Intelligence Community Postdoctoral Research Fellowship, DoE,
+
+Grants and Fellowships
+
+$204k.
+
+2018 Texas Space Grant Consortium Fellowship, NASA, $5k.
+
+2017 Ken Kennedy Institute High Performance Computing Fellowship,
+
+Rice University, $7.5k.
+
+2015 NSF Graduate Research Fellowship, NSF, $138k.
+2014 NDSEG Fellowship, DoD, $214k.
+2013 Texas Instruments Fellowship, Rice University, $8k.
+
+Industrial and National Lab Positions
+
+Since 04/19 Aerospace, Automotive, Defense, and Medical Device Companies,
+
+06/17-08/17 Naval Research Laboratory, Graduate Research Intern in Applied Optics
+
+Branch, Washington, DC.
+
+05/16-07/16 Ball Aerospace, RF Engineering Intern in Mission Systems Group, Broom-
+
+05/15-07/15 Ball Aerospace, RF Engineering Intern in Mission Systems Group, Broom-
+
+05/14-08/14 ViaSat, Software Engineering Intern, Carlsbad, CA.
+05/13-08/13 National Instruments, Hardware Engineering Intern, Austin, TX.
+
+Consultant.
+
+ﬁeld, CO.
+
+ﬁeld, CO.
+
+Publications
+
+27 Solving Inverse Problems using Self-supervised Deep Neural Nets,
+
+Liu, J., Balaji, M., Metzler, C., Asif, M., Rangarajan, P., COSI, 2021.
+
+26 Compressive MRI with Approximate Message Passing and Learn-
+
+ing, Metzler, C., Kitichotkul, R., and Wetzstein, G., In Preparation.
+
+25 Depth from Defocus with Learned Optics for Imaging and
+Occlusion-aware Depth Estimation, Ikoma, H., Nguyen, C., Peng, Y.,
+Metzler, C., and Wetzstein, G., IEEE International Conference on Computa-
+tional Photography (ICCP), 2021.
+
+24 D-VDAMP: Denoising-based Approximate Message Passing for
+Compressive MRI, Metzler, C., and Wetzstein, G., The International Con-
+ference on Acoustics, Speech, & Signal Processing (ICASSP), 2021.
+
+23 SUREmap: Predicting Uncertainty in CNN-based Image Recon-
+structions using Stein’s Unbiased Risk Estimate, Kitichotkul, R.,
+Metzler, C., Ong, F., and Wetzstein, G., The International Conference on
+Acoustics, Speech, & Signal Processing (ICASSP), 2021.
+
+22 Deep S3PR: Simultaneous Source Separation and Phase Retrieval
+Using Deep Generative Models, Metzler, C., and Wetzstein, G., The
+International Conference on Acoustics, Speech, & Signal Processing (ICASSP),
+2021.
+
+21 Deep Optics: Learning Cameras and Optical Computing Systems,
+Wetzstein, G., Ikoma, H., Metzler, C., and Peng, Y., IEEE 54th Asilomar
+Conference on Signals, Systems and Computers, 2020.
+
+20 Deep Learning Techniques for Inverse Problems in Imaging, Ongie,
+G., Jalal, A., Metzler, C., Baraniuk, R., Dimakis, A., Willett, R., IEEE
+Journal on Selected Areas in Information Theory, 2020.
+
+19 Real-Time Unknown-View Tomography Using Recurrent Neural
+Networks with Applications to Keyhole Imaging, Metzler, C., and
+Wetzstein, G., Computational Optical Sensing and Imaging (COSI), 2020.
+
+18 Keyhole Imaging: Non-line-of-sight Imaging and Tracking Along a
+Single Optical Path, Metzler, C., Lindell, D., and Wetzstein, G., IEEE
+Transactions on Computational Imaging, 2020.
+
+17 Deep Optics
+
+Imaging,
+Metzler, C., Ikoma, H., Peng, Y., and Wetzstein, G., Conference on
+Computer Vision and Pattern Recognition (CVPR) (Oral), 2020.
+
+for Single-shot High-dynamic-range
+
+16 Optimizing Monocular Depth Estimation with Global Depth His-
+togram Matching Using a Single SPAD Transient, Nishimura, M.,
+Lindell, D., Metzler, C., and Wetzstein, G., European Conference on Com-
+puter Vision (ECCV), 2020.
+
+15 Deep-inverse Correlography: Towards Real-time High-resolution
+Non-line-of-sight Imaging, Metzler, C., Heide, F., Rangarajan, P., Balaji,
+M., Viswanath, A., Veeraraghavan, A., and Baraniuk, R., Optica, 2020.
+Optica top 10 most cited paper.
+
+14 Inverse Scattering via Transmission Matrices: Broadband Illumi-
+nation and Fast Phase Retrieval Algorithms, Metzler*, C., Sharma*,
+M.K., Nagesh, S., Baraniuk, R., Cossairt, O. and Veeraraghavan, A., IEEE
+Transactions on Computational Imaging, 2019.
+
+13 Unsupervised Learning with Stein’s Unbiased Risk Estimator with
+Applications to Denoising and Compressed Sensing, Metzler, C.,
+Mousavi, A., Heckel, R., and Baraniuk, R., International Biomedical and
+Astronomical Signal Processing Frontiers Workshop (BASP), 2019.
+Best paper award.
+
+12 Imaging Through Macroscopic Scattering Media, Kanaev, A., Watnik,
+A., Gardner, D., Metzler, C., Judd, K., Lebow, P., Novak, K., and Lindle, J.,
+Optics and Photonics News, 2018.
+
+11 Imaging Through Extreme Scattering in Extended Dynamic Media,
+Kanaev, A., Watnik, A., Gardner, D., Metzler, C., Judd, K., Lebow, P., Novak,
+K., and Lindle, J., Optics Letters, 2018.
+
+10 prDeep: Robust Phase Retrieval with a Flexible Deep Network,
+Metzler, C., Schniter, P., Veeraraghavan, A., and Baraniuk, R., International
+Conference on Machine Learning (ICML), 2018.
+
+9 An Expectation-maximization Approach to Tuning Generalized
+Vector Approximate Message Passing, Metzler, C., Schniter, P., and
+Baraniuk, R., ICA/LVA Special Session on Advances in Phase Retrieval and
+Applications, 2018.
+
+8 Learned D-AMP: Principled Neural-network-based Compressive
+Image Recovery, Metzler, C., Mousavi, A., and Baraniuk, R., Neural Infor-
+mation Processing Systems (NeurIPS), 2017.
+
+7 Coherent Inverse Scattering via Transmission Matrices: Eﬃcient
+Phase Retrieval Algorithms and a Public Dataset, Metzler*, C.,
+Sharma*, M.K., Nagesh, S., Baraniuk, R., Cossairt, O. and Veeraraghavan,
+A., IEEE International Conference on Computational Photography (ICCP),
+2017.
+Best paper honorable mention.
+
+6 BM3D-prGAMP: Compressive Phase Retrieval Based on BM3D
+Denoising, Metzler, C., Maleki, A., and Baraniuk, R., IEEE International
+Conference on Image Processing (ICIP), 2016.
+
+5 From Denoising to Compressed Sensing, Metzler, C., Maleki, A., and
+
+Baraniuk, R., IEEE Transactions on Information Theory, 2016.
+
+4 Iterative Reconstruction from Limited Angle, Limited View Projec-
+tions for Cryo-electron Tomography, Wood, S., Fontenla, E., Metzler, C.,
+Chiu, W., Baraniuk, R., IEEE 49th Asilomar Conference on Signals, Systems
+and Computers, 2015.
+
+3 Dynamic Model Generation for Application of Compressed Sensing
+to Cryo-electron Tomography Reconstruction, Wood, S., Fontenla, E.,
+Metzler, C., Chiu, W., Baraniuk, R., IEEE Signal Processing and Signal
+Processing Education Workshop (SP/SPE), 2015.
+
+2 Optimal Recovery from Compressive Measurements via Denoising-
+based Approximate Message Passing, Metzler, C., Maleki, A., and Bara-
+niuk, R., IEEE International Conference on Sampling Theory and Applications
+(SampTA), 2015.
+
+1 BM3D-AMP: A New Image Recovery Algorithm Based on BM3D
+Denoising, Metzler, C., Maleki, A., and Baraniuk, R., IEEE International
+Conference on Image Processing (ICIP), 2015.
+Top 10% paper.
+
+Talks
+
+2021 Invited Talk, Designing Imaging Systems with End-to-End Learning, OSA
+
+Imaging and Applied Optics Congress.
+
+2021 Invited Talk, Computational Imaging with Physics, Statistics, and Machine
+
+2021 Talk, D-VDAMP: Denoising-based Approximate Message Passing for Com-
+
+Learning, NIST, Gaithersburg.
+
+pressive MRI, ICASSP 2021.
+
+2021 Talk, Deep S3PR: Simultaneous Source Separation and Phase Retrieval using
+
+Deep Generative Models, ICASSP 2021.
+
+2020 Invited Talk, Approximate Message Passing (AMP) Algorithms for Compu-
+tational Imaging, NeurIPS Workshop on Deep Learning and Inverse Problems.
+
+2020 Invited Talk, Computational Imaging with Approximate Message Passing
+
+and Learning, Oxford University.
+
+2020 Invited Talk, Deep S3PR: Simultaneous Source Separation and Phase Re-
+trieval Using Deep Generative Models, Asilomar Conference on Signals, Sys-
+tems, and Computers.
+
+2020 Talk, Data-driven Solutions to Challenging Imaging Problems, Intelligence
+
+Community Academic Research Symposium.
+
+2020 Invited Talk, Computational Imaging with Physics, Statistics, and Machine
+
+Learning, UC Berkeley.
+
+2020 Invited Talk, Deep-Inverse Correlography: Imaging Around Corners with
+Deep Learning Based Phase Retrieval, SIAM, IS20 Special Session on Phase
+Retrieval.
+
+2020 Talk, Keyhole Imaging: Non-Line-of-Sight Imaging and Tracking of Moving
+
+Objects Along a Single Optical Path, COSI.
+
+2020 Talk, Deep Optics for Single-shot High-dynamic-range Imaging, CVPR.
+
+2020 Talk, Keyhole Imaging: Non-Line-of-Sight Imaging and Tracking of Moving
+
+Objects Along a Single Optical Path, CCD Workshop, CVPR.
+
+2020 Invited Talk, Computational Imaging with Physics, Statistics, and Machine
+
+Learning, UMD.
+
+Learning, MIT.
+
+Lunch, Rice.
+
+2020 Invited Talk, Computational Imaging with Physics, Statistics, and Machine
+
+2019 Invited Talk, Extreme Imaging with Statistical Signal Processing, Informa-
+
+tion Systems Laboratory Colloquium, Stanford.
+
+2018 Invited Talk, Deep Learning for Seeing Around Corners, Machine Learning
+
+2018 Talk, prDeep: Robust Phase Retreival with a Flexible Deep Network, ICML.
+
+2018 Invited Talk, Imaging Through Scattering Media Using Phase Retrieval,
+
+ICA/LVA Special Session on Phase Retrieval and Applications.
+
+2018 Invited Talk, Unsupervised Learning with Stein’s Unbiased Risk Estimator:
+A Practical Approach to Universal Compressive Sensing, SIAM IS-18 Min-
+isymposium on Computational and Compressive Imaging Technologies and
+Applications.
+
+2018 Invited Talk, Data-driven Computational Imaging:
+
+Improved Imaging
+Through Scattering Media with Visible Light, Stanford Center for Imaging
+Systems and Engineering.
+
+2018 Invited Talk, Phase Retrieval: Fast, Robust, and Data-driven Algorithms for
+Computational Imaging, SPIE Photonics West Quantitative Phase Imaging
+Workshop IV.
+
+2017 Talk, Coherent Inverse Scattering via Transmission Matrices, ONR EO/IR
+
+Imaging Systems Annual Review Meeting.
+
+2017 Invited Talk, Unrolling: A Principled Method to Develop Deep Neural
+
+Networks, Rice Geo-Mathematical Imaging Group Project Review.
+
+2017 Talk, Coherent Inverse Scattering via Transmission Matrices: Eﬃcient Phase
+
+Retrieval Algorithms and a Public Dataset, ICCP.
+
+2016 Talk, BM3D-prGAMP: Compressive Phase Retrieval Based on BM3D De-
+
+noising, ICME MM-SPARSE Workshop.
+
+2015 Invited Talk, Connecting Bayesian and Denoising-based Compressed Sensing,
+
+2015 Talk, BM3D-AMP: A New Image Recovery Algorithm Based on BM3D
+
+Asilomar.
+
+Denoising, ICIP.
+
+Summer
+2021-Present
+
+Mentorship
+Graduate Advisor, Kevin Zhang, Minyang Xie, and Chenyi Ling, University
+of Maryland, College Park.
+
+Summer
+2021-Present
+
+Undergraduate Research Advisor, Priyanka Mehta, Tejan Gandhi, Uni-
+versity of Maryland, College Park.
+
+Spring
+2021-Present
+
+Graduate Co-advisor, PhD Candidates Brandon Feng and Matthew Zie-
+mann, University of Maryland, College Park.
+
+2020-2021 Mentor, REU Intern Kao Kitichotkul, Stanford University.
+
+2019-2020 Mentor, PhD Candidates Cindy Nguyen, Mark Nishimura, and Hayato
+
+Ikoma, Stanford University.
+
+Spring 2020 Mentor, Computational Imaging and Display Course Projects, Stanford
+
+Summer 2019 Mentor, RISE High School Internship Program, Stanford University.
+
+Summer 2019 Mentor, STEM to SHTEM High School Internship Program, Stanford
+
+Spring 2019 Mentor, Computational Imaging and Display Course Projects, Stanford
+
+Spring 2015 Mentor, Signals, Systems, and Learning Course Projects, Rice University.
+Spring 2015 Mentor, Electrical Engineering Senior Design Project, Rice University.
+
+Fall 2021 Instructor, CMSC848B Selected Topics in Information Processing; Compu-
+
+tational Imaging, University of Maryland, College Park.
+
+Spring 2021 Instructor, CMSC426: Computer Vision, University of Maryland, College
+
+University.
+
+University.
+
+University.
+
+Teaching
+
+Park.
+
+Spring 2019 Guest Lecturer, EE367/CS448I: Computational Imaging and Display, Stan-
+
+ford University.
+
+University.
+
+Spring 2015 Teaching Assistant, Fundamentals of Electrical Engineering II, Rice
+
+Fall 2013 Teaching Assistant, Advanced VLSI, Rice University.
+Fall 2014 Guest Speaker, 4th Grade Class in Houston Independent School District.
+Fall 2011 Course Assistant, Signals, Systems, and Learning, Rice University.
+
+Spring 2011 Course Assistant, Fundamentals of Electrical Engineering II, Rice
+
+University.
+
+Fall 2010 Course Assistant, Fundamentals of Electrical Engineering I, Rice University.
+
+Professional Service
+Conference/Workshop Committee Member, Computational Optical
+Sensing and Imaging 2021, NeurIPS Workshop on Deep Learning and Inverse
+Problems 2021.
+
+Grant Reviewer, Panel Expert for European Research Council.
+
+Signal Processing Reviewer, IEEE Signal Processing Magazine; IEEE
+Transactions on Image Processing; IEEE Transactions on Information Theory;
+IEEE Transactions on Signal Processing; IEEE Signal Processing Letters;
+IEEE Journal on Selected Areas in Information Theory; IEEE Journal of
+Selected Topics in Signal Processing; IEEE Open Journal of Signal Processing;
+IEEE Wireless Communications Letters; IEEE Sensors Journal; IEEE Trans-
+actions on Multimedia; ACM Transactions on Graphics; Nature Scientiﬁc
+Reports; SIAM Journal on Imaging Sciences; Elsevier Digital Signal Pro-
+cessing; Elsevier Signal Processing: Image Communication; Elsevier Journal
+of Visual Communication and Image Representation; Springer Journal of
+Circuits, Systems, and Signal Processing; ISIT; SAMPTA; SPAWC; ITW.
+
+Machine Learning Reviewer, CVPR, NeurIPS, ICML, ICCV, ECCV, UAI,
+IEEE Journal on Selected Areas in Information Theory Special Issue on Deep
+Learning.
+
+Optics Reviewer, Optica, Optics Express, Photonics Research, Applied
+Optics, IEEE Transactions on Computational Imaging, ACM SIGGRAPH,
+ACM SIGGRAPH Asia.
+
+Other Reviewer, Robotics Science and Systems.
+
+Club Advisor, UMD Google Developer Student Club.
+
+Starting
+08/21
+
+03/19-07/19 Organizer, Imaging and Microscopy Journal Club.
+
+08/17-05/18 Professional Development Chair, Rice ECE Graduate Student
+
+Association.
+
+08/16-05/17 Social Chair, Rice ECE Graduate Student Association.
+
+08/14-05/15 Community Service Committee Member, Rice Graduate Student
+
+Association.
+
+08/12-05/13 Vice President, Rice IEEE.
+08/11-05/12 Treasurer, Rice IEEE.
+08/09-05/13 Member, Rice Society of Automotive Engineers.
+
+Media Coverage
+
+2020 Deep-inverse Correlography: Towards Real-time High-resolution
+Non-line-of-sight Imaging, Featured in Science Magazine, IEEE Spectrum
+Magazine, The Times of London, The Telegraph, CNET, MSN.com, and more.
+
+2021 Keyhole Imaging: Non-Line-of-Sight Imaging and Tracking of Mov-
+ing Objects Along a Single Optical Path, Gizmodo, ExtremeTech, and
+others. >75K YouTube views.
+
+
